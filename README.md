@@ -22,10 +22,10 @@
 * Created first scetches of the project, decided how to actually fullfil the course requirements (Markus, Niko)
 
 11.03.2019
-* Finished disassembly
+* Finished disassembly (Markus)
 
 12.03.2019
-* Polished scetches of the project
+* Polished scetches of the project (Markus, Niko, Veli-matti)
 
 
 ## License and copyleft
