@@ -15,14 +15,14 @@
 * About errors and failures.
 * Personal reflection
 
-#### 26.02.2019
-- Decided on project idea. Formed group. Started disassembly of the latop (Markus, Atte)
-#### 01.03.2019
-- Created first scetches of the project, decided how to actually fullfil the course requirements (Markus, Niko)
-#### 11.03.2019
-- Finished disassembly
-#### 12.03.2019
-- Polished scetches of the project
+26.02.2019
+* Decided on project idea. Formed group. Started disassembly of the latop (Markus, Atte)
+01.03.2019
+* Created first scetches of the project, decided how to actually fullfil the course requirements (Markus, Niko)
+11.03.2019
+* Finished disassembly
+12.03.2019
+* Polished scetches of the project
 
 
 ## License and copyleft
