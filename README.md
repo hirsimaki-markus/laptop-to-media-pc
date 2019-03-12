@@ -25,7 +25,7 @@
 * Finished disassembly (Markus)
 
 12.03.2019
-* Polished scetches of the project (Markus, Niko, Veli-matti)
+* Polished scetches of the case design (Markus, Niko, Veli-matti)
 
 
 ## License and copyleft
