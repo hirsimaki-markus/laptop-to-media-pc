@@ -27,6 +27,9 @@
 12.03.2019
 * Polished scetches of the case design (Markus, Niko, Veli-matti)
 
+13.3.2019
+* first 3d model for the project (Veli-matti). Motherboard additional part design created (Markus)
+
 
 ## License and copyleft
 Copyleft <img src="https://raw.githubusercontent.com/hirsimaki-markus/arduino-PS2-to-USB/master/images/copyleft.png" width="12" height="12"/> Markus Hirsimäki, Atte Viertola, Veijola Veli-matti, Niko Känsäkoski under [GNU General Public License v3.0](https://choosealicense.com/licenses/lgpl-3.0/)
