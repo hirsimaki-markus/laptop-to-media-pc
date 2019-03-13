@@ -2,11 +2,17 @@
 
 ## Introductory Report
 * Short description of the concept
+    * Placeholder text block. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eget lorem ac ex lacinia consectetur eget quis dolor. Donec pellentesque viverra enim id accumsan.
 * Description of how you arrived at your design
+    * Placeholder text block. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eget lorem ac ex lacinia consectetur eget quis dolor. Donec pellentesque viverra enim id accumsan.
 * Other options you considered while deciding on your design
+    * Placeholder text block. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eget lorem ac ex lacinia consectetur eget quis dolor. Donec pellentesque viverra enim id accumsan.
 * Design sketches
+    * Placeholder text block. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eget lorem ac ex lacinia consectetur eget quis dolor. Donec pellentesque viverra enim id accumsan.
 * Bill of Materials: List of electronic components you need for your project.
+    * Placeholder text block. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eget lorem ac ex lacinia consectetur eget quis dolor. Donec pellentesque viverra enim id accumsan.
 * Length: between 100 - 250 words + min 1 picture showing design sketches.
+    * Placeholder text block. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eget lorem ac ex lacinia consectetur eget quis dolor. Donec pellentesque viverra enim id accumsan.
 
 ## Diary report
 
