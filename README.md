@@ -28,7 +28,7 @@
 * Polished scetches of the case design (Markus, Niko, Veli-matti)
 
 13.3.2019
-* first 3d model for the project (Veli-matti). Motherboard additional part design created (Markus)
+* first 3d model for the project (Veli-matti). Motherboard additional part design created to add transistor to on-off switch (Markus)
 
 
 ## License and copyleft
