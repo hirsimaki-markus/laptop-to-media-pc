@@ -23,7 +23,7 @@ Various other approaches were considered regarding the orientation of components
 **01.3.19** - Created first scetches of the project, decided how to actually fullfil the course requirements (Markus, Niko)\
 **11.3.19** - Finished case disassembly (Markus)\
 **12.3.19** - Polished scetches of the case design (Markus, Niko, Veli-matti). Created 3D model for case (Veli-matti)\
-**13.3.19** - Polished 3D model (Veli-matti). Motherboard additional part design created to add transistor to on-off switch (Markus)\
+**13.3.19** - Polished 3D-model (Veli-matti). Designed additional board to control powerbutton with relay (Markus)\
 **15.3.19** - Decided on using relay instead of transistor to control the power button due to transistor related problems (Markus)\
 **17.3.19** - Pushed updates into GitHub for this readme (Markus, Veli-matti)
 
