@@ -20,8 +20,7 @@ Various other approaches were considered regarding the orientation of components
 - [ ] Additional board that connects to the motherboard, milled at fablab
 - [ ] Arduino combatible light and sound sensors
 
-
-
+---
 
 ### Diary report
 **26.2.19**\
@@ -39,7 +38,8 @@ Polished 3D-model (Veli-matti). Designed additional board to control powerbutton
 ![](https://raw.githubusercontent.com/hirsimaki-markus/laptop-to-media-pc/master/pictures/board-milling.png)
 **15.3.19**\
 Decided on using relay instead of transistor to control the power button due to transistor not being galvanically isolated (Markus)\
-**17.3.19** - Pushed updates into GitHub for this readme. Added pictures. (Markus, Veli-matti)
+**17.3.19**\
+Pushed updates into GitHub for this readme. Added pictures. (Markus, Veli-matti)
 
 ---
 
