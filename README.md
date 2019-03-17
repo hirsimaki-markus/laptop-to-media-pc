@@ -10,11 +10,12 @@ We arrived at the current design by trying to achieve the best performance and a
 **Other options you considered while deciding on your design**\
 Various other approaches were considered regarding the orientation of components and choice of materials. For controlling the power button we also considered using transistor instead of relay. Using transistor however is more problematic approach as it will require calculating voltages and finding out relative polarities of the connectors.
 
-**Bill of Materials**\
-* Any Arduino, preferably Pro Micro
-* Low voltage relay that can be driven by arduino
-* Additional board that connects to the motherboard, milled at fablab
-* Arduino combatible light and sound sensors
+**Bill of Materials**
+- [x] Plywood for case
+- [ ] Any Arduino, preferably Pro Micro
+- [ ] Low voltage relay that can be driven by Arduino
+- [ ] Additional board that connects to the motherboard, milled at fablab
+- [ ] Arduino combatible light and sound sensors
 
 
 ## Diary report
