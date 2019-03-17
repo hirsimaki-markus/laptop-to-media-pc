@@ -1,6 +1,6 @@
 # Project about converting old laptop into media pc
 
-## Introductory Report
+### Introductory Report
 **Short description of the concept**\
 The basic concept is to convert an old laptop into compact media-PC that will fit nicely next to TV. This will be done by removing all unnecessary parts that take up space. These removed parts include atleast the following: display, keyboard, battery, casing and disc drive. Sensor will also be added to detect some light or sound sequence to turn on the PC. The sensor will be connected to Arduino which will in turn drive relay to control the powerbutton embedded in the motherboard.
    
@@ -18,14 +18,14 @@ Various other approaches were considered regarding the orientation of components
 - [ ] Arduino combatible light and sound sensors
 
 
-## Diary report
-**26.02.2019** - Decided on project idea. Formed group. Started disassembly of the latop (Markus, Atte)\
-**01.03.2019** - Created first scetches of the project, decided how to actually fullfil the course requirements (Markus, Niko)\
-**11.03.2019** - Finished case disassembly (Markus)\
-**12.03.2019** - Polished scetches of the case design (Markus, Niko, Veli-matti). Created 3D model for case (Veli-matti)\
-**13.03.2019** - Polished 3D model (Veli-matti). Motherboard additional part design created to add transistor to on-off switch (Markus)\
-**15.03.2019** - Decided on using relay instead of transistor to control the power button due to transistor related problems (Markus)\
-**17.03.2019** - Pushed updates into GitHub for this readme (Markus, Veli-matti)
+### Diary report
+**26.2.19** - Decided on project idea. Formed group. Started disassembly of the latop (Markus, Atte)\
+**01.3.19** - Created first scetches of the project, decided how to actually fullfil the course requirements (Markus, Niko)\
+**11.3.19** - Finished case disassembly (Markus)\
+**12.3.19** - Polished scetches of the case design (Markus, Niko, Veli-matti). Created 3D model for case (Veli-matti)\
+**13.3.19** - Polished 3D model (Veli-matti). Motherboard additional part design created to add transistor to on-off switch (Markus)\
+**15.3.19** - Decided on using relay instead of transistor to control the power button due to transistor related problems (Markus)\
+**17.3.19** - Pushed updates into GitHub for this readme (Markus, Veli-matti)
 
 
 
