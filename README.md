@@ -35,6 +35,7 @@ Polished 3D-model (Veli-matti). Designed additional board to control powerbutton
 Decided on using relay instead of transistor to control the power button due to transistor not being galvanically isolated (Markus)\
 **17.3.19** - Pushed updates into GitHub for this readme. Added pictures. (Markus, Veli-matti)
 
+---
 
 Description of what you are planning to do, including information on how you reach to that idea and updates to the original idea.
 
