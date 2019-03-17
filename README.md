@@ -19,32 +19,21 @@ Various other approaches were considered regarding the orientation of components
 
 
 ## Diary report
+**26.02.2019** - Decided on project idea. Formed group. Started disassembly of the latop (Markus, Atte)\
+**01.03.2019** - Created first scetches of the project, decided how to actually fullfil the course requirements (Markus, Niko)\
+**11.03.2019** - Finished case disassembly (Markus)\
+**12.03.2019** - Polished scetches of the case design (Markus, Niko, Veli-matti). Created 3D model for case (Veli-matti)\
+**13.03.2019** - Polished 3D model (Veli-matti). Motherboard additional part design created to add transistor to on-off switch (Markus)\
+**15.03.2019** - Decided on using relay instead of transistor to control the power button due to transistor related problems (Markus)\
+**17.03.2019** - Pushed updates into GitHub for this readme (Markus, Veli-matti)
+
+
 
 * Description of what you are planning to do, including information on how you reach to that idea and updates to the original idea.
 * Diary of the process. At least one entry per week, telling what has been done during the week by every member of the team and the team as a whole. Include pictures and videos.
 * About errors and failures.
 * Personal reflection
 
-26.02.2019
-* Decided on project idea. Formed group. Started disassembly of the latop (Markus, Atte)
-
-01.03.2019
-* Created first scetches of the project, decided how to actually fullfil the course requirements (Markus, Niko)
-
-11.03.2019
-* Finished disassembly (Markus)
-
-12.03.2019
-* Polished scetches of the case design (Markus, Niko, Veli-matti). Created 3D model for case (Veli-matti)
-
-13.03.2019
-* Polished 3D model (Veli-matti). Motherboard additional part design created to add transistor to on-off switch (Markus)
-
-15.03.2019
-* Decided on using relay instead of transistor to control the power button after researching transistor related problems (Markus)
-
-17.03.2019
-* Pushed updates into GitHub for this readme (Markus, Veli-matti)
 
 
 ## License and copyleft
