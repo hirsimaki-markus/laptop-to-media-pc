@@ -34,8 +34,7 @@ Finished case disassembly. Next steps are to design case that fits the exact dim
 **12.3.19**\
 Polished scetches of the case design (Markus, Niko, Veli-matti). Created 3D model for case (Veli-matti). Next step is to finish power button relay/transistor board.\
 **13.3.19**\
-Polished 3D-model (Veli-matti). Designed additional board to control powerbutton with relay/transistor (Markus). Next step is to acquire relay/transistor and build test board.\
-![](https://raw.githubusercontent.com/hirsimaki-markus/laptop-to-media-pc/master/pictures/board-milling.png)
+Polished 3D-model (Veli-matti). Designed additional board to control powerbutton with relay/transistor (Markus). Next step is to acquire relay/transistor and build test board.![](https://raw.githubusercontent.com/hirsimaki-markus/laptop-to-media-pc/master/pictures/board-milling.png)\
 **15.3.19**\
 Decided on using relay instead of transistor to control the power button due to transistor not being galvanically isolated (Markus)\
 **17.3.19**\
