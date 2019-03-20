@@ -40,6 +40,8 @@ Polished 3D-model (Veli-matti). Designed additional board to control powerbutton
 Decided on using relay instead of transistor to control the power button due to transistor not being galvanically isolated (Markus)\
 **17.3.19**\
 Pushed updates into GitHub for this readme. Added pictures. (Markus, Veli-matti)
+**20.3.19**\
+Started working on Arduino code, first version created (Atte, Niko). Polished 3D-model, designed (inkscape) and created first laser cut parts for the case. Created new version of the additional board and started drawing it in inkscape. New additions were transistor to control the relay and diode to limit power-off current from the relay coil. These were due to the 5v power from adrduino vcc being always on so the relay would not power off. Next step on the additional board is to design better system to connect spring powered testing pins to motherboard. Current approach of soldering them on to the additional board won't work since they will be too close to each other for soldering. We are considering on using some kind of holster to hold the pins on place and add wrapped wires instead of soldering.   
 
 ---
 
