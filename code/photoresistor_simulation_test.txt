@@ -1,0 +1,62 @@
+/*
+
+All values are preliminary, and should be 
+treated as such.
+
+The circuit and code used in the simulation
+are actually for a photoresistor, but the basic principles work also
+for the sound sensor. 
+Values and code will be changed accordingly to the components.
+
+*/
+
+int counter = 0;
+unsigned long int starttime;
+unsigned long int testtime;
+/*Set the variables
+	Counter checks how many times have you clapped,
+    starttime is the time when the clapping started
+    and testtime is the time when the next clapping is checked. 
+    
+*/
+void setup()
+{
+  Serial.begin(9600);
+  pinMode(9, OUTPUT);
+  digitalWrite(9, LOW);
+}
+
+void loop()
+{
+  if (digitalRead(13) == 1) {
+    timer();
+    //Serial.println(counter); Test if the loop works as intended
+    starttime = millis();
+    //Take the starting time only if there was a sound
+  } 
+}
+void timer()
+{
+  testtime = millis();
+  //Check if the time difference between the sounds isn't too long
+  if (testtime - starttime > 1500 && digitalRead(13) == 1) {
+    counter = 0;
+  //Resets the counter in case the time difference was too great
+  //Clapping doesn't take long...
+  }
+  if (testtime - starttime <= 1500 && digitalRead(13) == 1) {
+    counter += 1;
+  }
+  
+  delay(500); //Wait 500ms and check if the sound is over
+  //If not, reset counter. This is to check if the room is just too noisy or if the input was actually there.
+  if (digitalRead(13) == 1){
+    counter = 0;
+  }
+  
+  if (counter == 3) {
+    digitalWrite(9, HIGH);
+    delay(10);
+    digitalWrite(9, LOW);
+  }   
+}
