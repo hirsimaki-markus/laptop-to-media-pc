@@ -46,6 +46,8 @@ Made the simulation for the voice control. (Niko) Started working on Arduino cod
 We didn't have any major issues, our only problems were with the simulation (added a breakpoint without realising) and where to find the measurements for the components. Some of the documentation for those components wasn't nearly accurate enough for the project.
 **21.2.19**\
 Created files for laser cutter and cut holster for spring spikes so that they can be easily held onto the extra board (Markus)
+**26.2.19**\
+Milled two first versions of board. Both failed (Markus)
 
 ---
 
