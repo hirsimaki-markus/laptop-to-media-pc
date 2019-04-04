@@ -15,10 +15,10 @@ Various other approaches were considered regarding the orientation of components
 
 **Bill of Materials**
 - [x] Plywood for case
-- [ ] Any Arduino, preferably Pro Micro
+- [x] Any Arduino, preferably Pro Micro
 - [x] Low voltage relay that can be driven by Arduino
 - [ ] Additional board that connects to the motherboard, milled at fablab
-- [ ] Arduino combatible light and sound sensors
+- [x] Arduino combatible light and sound sensors
 - [x] Testing pins to connect additional board to motherboard without soldering
 - [x] power button to bypass relay logic manually when needed
 
@@ -44,10 +44,18 @@ Pushed updates into GitHub for this readme. Added pictures. (Markus, Veli-matti)
 **20.3.19**\
 Made the simulation for the voice control. (Niko) Started working on Arduino code, first version created (Atte, Niko). Polished 3D-model, designed (inkscape) and created first laser cut parts for the case. Created new version of the additional board and started drawing it in inkscape. New additions were transistor to control the relay and diode to limit power-off current from the relay coil. These were due to the 5v power from adrduino vcc being always on so the relay would not power off. Next step on the additional board is to design better system to connect spring powered testing pins to motherboard. Current approach of soldering them on to the additional board won't work since they will be too close to each other for soldering. We are considering on using some kind of holster to hold the pins on place and add wrapped wires instead of soldering. (Markus)\
 We didn't have any major issues, our only problems were with the simulation (added a breakpoint without realising) and where to find the measurements for the components. Some of the documentation for those components wasn't nearly accurate enough for the project.
-**21.2.19**\
+**21.3.19**\
 Created files for laser cutter and cut holster for spring spikes so that they can be easily held onto the extra board (Markus)
-**26.2.19**\
+**27.3.19**\
+Simulated and created the first version of the voice control system. (Niko and Atte). A lot of problems with the sound sensor. The sensor or arduino worked too slow for the system to be able to print the analog values. Instead of analog port, we decided to use the digital port. With the digital port we had to manually finetune the component to be accurate enough. Eventually we managed to get the tuning right and the system worked. Created first physical prototype for case. (Veli-Matti) Made the files for milling the board. (Markus)
+**28.3.19**\
 Milled two first versions of board. Both failed (Markus)
+**3.4.19**\
+Worked on the actual voice system. (Niko, Atte and Markus) Markus did the board, Niko and Atte worked on the arduino.
+Worked on the first version of the lasercutting files for the case (Veli-Matti)
+The first board worked with the sound system, but it was mirrored from actual one we need. The second board didn't work, we assume that either the diode or the transistor was broken, as the relay worked when tested.
+Started working on the switch. (Markus)
+
 
 ---
 
