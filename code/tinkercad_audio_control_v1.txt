@@ -1,0 +1,16 @@
+https://www.tinkercad.com/things/9ISIcMpvjMa-sizzling-sango-tumelo/editel?tenant=circuits?sharecode=513ZyuerdUAROydaEOqK-FKj_lXvGk6zfbJCaJRsVkM=
+
+Ihan vaan testaus miten mahdollisesti vois ohjata sitä äänen voimakkuutta samalla sensorilla. Tuo on kauhein amisversio minkä oon ikinä tehny
+ja mitä tuun ikinä toivottavasti tekemään. Tuo koodi ei toimi missään nimessä. Heitin vaan randomilla tällasen 10 min tekeleen pystyyn 
+vaatis tietenkin uudet piirit, mutta ite koodi ei olis paha korjata oikeesti toimivaks. 
+
+Periaatteessa siis ideana mulla on tässä se 
+että vois tyyliin kahesti taputtamalla vaihtaa sitä, kumpaan suuntaan sitä ääntä haluaa. 
+Sitten kerran taputtamalla laittaa yhen pykälän sitä 
+ääntä siihen suuntaan. Tuo koodi tosiaan ei siis mahdollista sitä koska mulla ei ole siinä mitään tilakonetta tai mitään muuta järkevää systeemiä
+ja käytin vielä samoja muuttujia joten kaikki on kauheaa spagettia. Mutta kuten sanottua, enköhän mää tuosta helposti viikonloppuna tee jotain järkevää
+jos Markus haluat tuollasen systeemin siihen. 
+
+Toki voidaan käyttää jotain muuta anturia, mutta sinänsä ei tarvis. Tuo yksi ja sama riittää,
+plus ainakin henk. koht. järkevämpi ratkasu on hoitaa kaikki taputtamalla kuin tyyliin heiluttamalla tai valoja räpsimällä. Ainakin se anturi ottaa
+ne taputukset hyvin... Ei tarvis sitten muita enää värkätä.
