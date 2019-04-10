@@ -64,6 +64,7 @@ Created the lasercutting files (Veli-Matti)
 **10.4.19**\
 Created the first version of piezo control files. (Niko)
 Finished and checked the lasercutting files (Veli-Matti)
+There wasn't any 3mm plywood to use, so we had to change the files to make it work with the 4mm plywood we could actually use in this project. This is because we had a lot of parts that have to fit together, and with the extra 1mm, the case wouldn't work as it was.
 
 ---
 
