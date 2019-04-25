@@ -120,7 +120,7 @@ int melody[] = {
   NOTE_CS4, NOTE_CS5, NOTE_CS6,
 };
 
-//Underwolrd tempo
+
 int tempo[] = {
  6, 6, 6,
 };
