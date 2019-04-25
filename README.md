@@ -15,10 +15,10 @@ Various other approaches were considered regarding the orientation of components
 
 **Bill of Materials**
 - [x] Plywood for case
-- [ ] Any Arduino, preferably Pro Micro
+- [x] Any Arduino, preferably Pro Micro
 - [x] Low voltage relay that can be driven by Arduino
-- [ ] Additional board that connects to the motherboard, milled at fablab
-- [ ] Arduino combatible light and sound sensors
+- [x] Additional board that connects to the motherboard, milled at fablab
+- [x] Arduino combatible light and sound sensors
 - [x] Testing pins to connect additional board to motherboard without soldering
 - [x] power button to bypass relay logic manually when needed
 
