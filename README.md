@@ -23,7 +23,7 @@ Various other approaches were considered regarding the orientation of components
 - [x] power button to bypass relay logic manually when needed
 
 ---
-**NOTE! THE COMPLETE DIARY REPORT IS IN THE WIKI, AS IS THE SUMMARY REPORT**\
+**NOTE! THE COMPLETE DIARY REPORT IS IN THE WIKI, AS IS THE SUMMARY REPORT**
 ### Diary report
 **26.2.19**\
 Decided on project idea. Formed group. Started disassembly of the latop (Markus, Atte). Next goal is to finish disassembly and create plans for the case.\
