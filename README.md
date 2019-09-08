@@ -11,6 +11,7 @@ This will be done by removing all unnecessary parts that take up space. These re
 We arrived at the current design by trying to achieve the best performance and asesthetical feeling. The design will use laser cut wood for most parts of the case and move around some components like ports and speakers. Some details are still open such as the exact orientation of the motherboard and how it will be secured to the case. The most promising approach is to use simple extension nuts from hardware store with rubber o-rings to mount the motherboard in place onto the case and create removable panel to access it. Cooling will be done by using existing heat pipe in the laptop in addition to a new fan.
     
 **Other options you considered while deciding on your design**\
+<img align="right" src="https://raw.githubusercontent.com/hirsimaki-markus/laptop-to-media-pc/master/actual_final_product_cropped.jpg" width="230" height="200">
 Various other approaches were considered regarding the orientation of components and choice of materials. For controlling the power button we also considered using transistor instead of relay. Using transistor however is more problematic approach as it will require calculating voltages and finding out relative polarities of the connectors.
 
 **Bill of Materials**
